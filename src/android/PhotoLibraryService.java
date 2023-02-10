@@ -278,7 +278,7 @@ public class PhotoLibraryService {
       columnValues.add("" + columns.getString(column));
     }
 
-    final String sortOrder = MediaStore.Images.Media.DATE_TAKEN + " DESC";
+    final String sortOrder = MediaStore.Images.Media._ID + " DESC";
 
     final Cursor cursor = context.getContentResolver().query(
       collection,
