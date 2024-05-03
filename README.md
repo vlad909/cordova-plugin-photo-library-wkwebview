@@ -33,7 +33,7 @@ Please write tests for your contribution.
 
 # Install
 
-    cordova plugin add cordova-plugin-photo-library-wkwebview --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="To choose photos" --save
+    cordova plugin add @itadori/cordova-plugin-photo-library-wkwebview --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="To choose photos" --save
 
 # Usage
 
