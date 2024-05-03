@@ -1,6 +1,6 @@
 {
   "name": "@itadori/cordova-plugin-photo-library-wkwebview",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "description": "Plugin that just gets photos from the gallery",
   "main": "index.js",
   "scripts": {
